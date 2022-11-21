@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/truonghungit/json-db#readme",
   "dependencies": {
-    "json-server": "^0.17.1"
+    "bcrypt": "^5.1.0",
+    "json-server": "^0.17.1",
+    "jsonwebtoken": "^8.5.1"
   }
 }
